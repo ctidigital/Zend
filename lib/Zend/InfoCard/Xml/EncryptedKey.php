@@ -23,17 +23,17 @@
 /**
  * Zend_InfoCard_Xml_Element
  */
-require_once 'Zend/InfoCard/Xml/Element.php';
+
 
 /**
  * Zend_InfoCard_Xml_EncryptedKey
  */
-require_once 'Zend/InfoCard/Xml/EncryptedKey.php';
+
 
 /**
  * Zend_InfoCard_Xml_KeyInfo_Interface
  */
-require_once 'Zend/InfoCard/Xml/KeyInfo/Interface.php';
+
 
 /**
  * An object representing an Xml EncryptedKEy block

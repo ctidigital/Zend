@@ -22,32 +22,32 @@
 /**
  * @see Zend_Feed_Reader
  */
-require_once 'Zend/Feed/Reader.php';
+
 
 /**
  * @see Zend_Feed_Reader_Extension_EntryAbstract
  */
-require_once 'Zend/Feed/Reader/Extension/EntryAbstract.php';
+
 
 /**
  * @see Zend_Date
  */
-require_once 'Zend/Date.php';
+
 
 /**
  * @see Zend_Uri
  */
-require_once 'Zend/Uri.php';
+
 
 /**
  * @see Zend_Feed_Reader_Collection_Category
  */
-require_once 'Zend/Feed/Reader/Collection/Category.php';
+
 
 /**
  * @see Zend_Feed_Reader_Feed_Atom_Source
  */
-require_once 'Zend/Feed/Reader/Feed/Atom/Source.php';
+
 
 /**
  * @category   Zend
